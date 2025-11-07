@@ -1,4 +1,4 @@
-# 🌍 Countries App - Prueba Técnica DOUBLE_V_PARTNERS# 🌍 Countries App - Prueba Técnica DOUBLE_V_PARTNERS# country-app
+# 🌍 Countries App - Prueba Técnica DOUBLE_V_PARTNERS# 🌍 Countries App - Prueba Técnica DOUBLE_V_PARTNERS# 🌍 Countries App - Prueba Técnica DOUBLE_V_PARTNERS# country-app
 
 
 
@@ -6,7 +6,7 @@ Aplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST C
 
 
 
-## 📋 Tabla de ContenidosAplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST Countries para mostrar información sobre países del mundo.This template should help get you started developing with Vue 3 in Vite.
+## 📋 Tabla de ContenidosAplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST Countries para mostrar información sobre países del mundo.
 
 
 
@@ -14,7 +14,7 @@ Aplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST C
 
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
-- [Estructura del Proyecto](#estructura-del-proyecto)## 📋 Tabla de Contenidos## Recommended IDE Setup
+- [Estructura del Proyecto](#estructura-del-proyecto)## 📋 Tabla de ContenidosAplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST Countries para mostrar información sobre países del mundo.This template should help get you started developing with Vue 3 in Vite.
 
 - [Instalación](#instalación)
 
@@ -22,7 +22,7 @@ Aplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST C
 
 - [Tests](#tests)
 
-- [Decisiones Técnicas](#decisiones-técnicas)- [Características](#características)[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Decisiones Técnicas](#decisiones-técnicas)- [Características](#características)
 
 - [Funcionalidades Implementadas](#funcionalidades-implementadas)
 
@@ -30,7 +30,7 @@ Aplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST C
 
 ## ✨ Características
 
-- [Estructura del Proyecto](#estructura-del-proyecto)## Recommended Browser Setup
+- [Estructura del Proyecto](#estructura-del-proyecto)## 📋 Tabla de Contenidos## Recommended IDE Setup
 
 - ✅ **Listado de países** con paginación (botón "Ver Más")
 
@@ -38,323 +38,681 @@ Aplicación web desarrollada con Vue 3 + TypeScript que consume la API de REST C
 
 - ✅ **Vista detallada** de cada país
 
-- ✅ **Diseño responsive** con Tailwind CSS- [Ejecución](#ejecución)- Chromium-based browsers (Chrome, Edge, Brave, etc.):
+- ✅ **Diseño responsive** con Tailwind CSS- [Ejecución](#ejecución)
 
-- ✅ **Dark Mode** con persistencia en localStorage y detección automática
+- ✅ **Dark Mode** con persistencia en localStorage
 
-- ✅ **TypeScript** para type safety completo- [Tests](#tests)  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
+- ✅ **TypeScript** para type safety completo- [Tests](#tests)
 
-- ✅ **Tests unitarios** con Vitest (13/13 tests pasando ✅)
+- ✅ **Tests unitarios** con Vitest (13/13 tests ✅)
 
-- ✅ **Manejo de estado** con Pinia- [Decisiones Técnicas](#decisiones-técnicas)  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
+- ✅ **Manejo de estado** con Pinia- [Decisiones Técnicas](#decisiones-técnicas)- [Características](#características)[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
 - ✅ **Routing** con Vue Router
 
-- [Funcionalidades Implementadas](#funcionalidades-implementadas)- Firefox:
+- [Funcionalidades Implementadas](#funcionalidades-implementadas)
 
 ## 🛠️ Tecnologías Utilizadas
 
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
 ### Core
 
-- **Vue 3.5.22** - Framework progresivo de JavaScript con Composition API## ✨ Características  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **Vue 3.5.22** - Framework progresivo de JavaScript con Composition API## ✨ Características
 
 - **TypeScript 5.9.3** - Superset de JavaScript con tipado estático
 
-- **Vite 7.2.2** - Build tool y dev server ultrarrápido
+- **Vite 7.2.2** - Build tool y dev server ultrarrápido- [Estructura del Proyecto](#estructura-del-proyecto)## Recommended Browser Setup
 
 
 
-### Estado y Routing- ✅ **Listado de países** con paginación (botón "Ver Más")## Customize configuration
+### Estado y Routing- ✅ **Listado de países** con paginación (botón "Ver Más")
 
 - **Pinia 3.0.4** - Store oficial de Vue para manejo de estado
 
-- **Vue Router 4.6.3** - Routing oficial de Vue- ✅ **Búsqueda/Filtrado** por nombre de país
+- **Vue Router 4.6.3** - Routing oficial de Vue- ✅ **Búsqueda/Filtrado** por nombre de país- [Instalación](#instalación)
 
 
 
-### HTTP y API- ✅ **Vista detallada** de cada paísSee [Vite Configuration Reference](https://vite.dev/config/).
+### HTTP y API- ✅ **Vista detallada** de cada país
 
 - **Axios 1.13.2** - Cliente HTTP para peticiones
 
-- **REST Countries API v3.1** - API pública de información de países- ✅ **Diseño responsive** con Tailwind CSS
+- **REST Countries API v3.1** - API pública de información de países- ✅ **Diseño responsive** con Tailwind CSS- [Ejecución](#ejecución)- Chromium-based browsers (Chrome, Edge, Brave, etc.):
 
 
 
-### Estilos- ✅ **TypeScript** para type safety## Project Setup
+### Estilos- ✅ **Dark Mode** con persistencia en localStorage y detección automática
 
 - **Tailwind CSS 3.4.0** - Framework CSS utility-first
 
-- **PostCSS 8.5.6** - Transformación de CSS- ✅ **Tests unitarios** con Vitest
+- **PostCSS 8.5.6** - Transformación de CSS- ✅ **TypeScript** para type safety completo- [Tests](#tests)  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
 
 - **Autoprefixer 10.4.21** - Autoprefixing de CSS
 
-- ✅ **Manejo de estado** con Pinia```sh
+- ✅ **Tests unitarios** con Vitest (13/13 tests pasando ✅)
 
 ### Testing
 
-- **Vitest 4.0.8** - Framework de testing ultrarrápido- ✅ **Routing** con Vue Routernpm install
+- **Vitest 4.0.8** - Framework de testing ultrarrápido- ✅ **Manejo de estado** con Pinia- [Decisiones Técnicas](#decisiones-técnicas)  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
 
 - **@vue/test-utils 2.4.6** - Utilidades oficiales para testing de Vue
 
-- **Happy-DOM 20.0.10** - Implementación ligera del DOM para tests```
+- **Happy-DOM 20.0.10** - Implementación ligera del DOM para tests- ✅ **Routing** con Vue Router
 
 
 
-### Desarrollo## 🛠️ Tecnologías Utilizadas
+### Desarrollo- [Funcionalidades Implementadas](#funcionalidades-implementadas)- Firefox:
 
 - **vue-tsc 3.1.3** - TypeScript checker para archivos Vue
 
-- **@vitejs/plugin-vue 6.0.1** - Plugin de Vite para Vue 3### Compile and Hot-Reload for Development
+- **@vitejs/plugin-vue 6.0.1** - Plugin de Vite para Vue 3## 🛠️ Tecnologías Utilizadas
 
 - **vite-plugin-vue-devtools 8.0.3** - DevTools integrado
 
-### Core
+  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
 
 ## 📁 Estructura del Proyecto
 
-- **Vue 3.5.22** - Framework progresivo de JavaScript con Composition API```sh
+### Core
 
 ```
 
-country-app/- **TypeScript** - Superset de JavaScript con tipado estáticonpm run dev
+country-app/- **Vue 3.5.22** - Framework progresivo de JavaScript con Composition API## ✨ Características  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
 ├── src/
 
-│   ├── components/              # Componentes reutilizables- **Vite 7.2.2** - Build tool y dev server ultrarrápido```
+│   ├── components/              # Componentes reutilizables- **TypeScript 5.9.3** - Superset de JavaScript con tipado estático
 
 │   │   ├── CountryCard/
 
-│   │   │   ├── CountryCard.vue    # Template del componente
+│   │   │   ├── CountryCard.vue    # Template del componente- **Vite 7.2.2** - Build tool y dev server ultrarrápido
 
 │   │   │   ├── CountryCard.ts     # Lógica TypeScript
 
-│   │   │   ├── CountryCard.test.ts # Tests unitarios### Estado y Routing### Compile and Minify for Production
+│   │   │   ├── CountryCard.test.ts # Tests unitarios
 
 │   │   │   └── index.ts            # Barrel export
 
-│   │   ├── SearchInput/- **Pinia 3.0.4** - Store oficial de Vue para manejo de estado
+│   │   ├── SearchInput/### Estado y Routing- ✅ **Listado de países** con paginación (botón "Ver Más")## Customize configuration
 
 │   │   │   ├── SearchInput.vue
 
-│   │   │   ├── SearchInput.ts- **Vue Router 4.6.3** - Routing oficial de Vue```sh
+│   │   │   ├── SearchInput.ts- **Pinia 3.0.4** - Store oficial de Vue para manejo de estado
 
 │   │   │   ├── SearchInput.test.ts
 
-│   │   │   └── index.tsnpm run build
+│   │   │   └── index.ts- **Vue Router 4.6.3** - Routing oficial de Vue- ✅ **Búsqueda/Filtrado** por nombre de país
 
 │   │   ├── LoadingSpinner/
 
-│   │   │   ├── LoadingSpinner.vue### HTTP y API```
+│   │   │   ├── LoadingSpinner.vue
 
 │   │   │   ├── LoadingSpinner.ts
 
-│   │   │   └── index.ts- **Axios 1.13.2** - Cliente HTTP para peticiones
+│   │   │   └── index.ts### HTTP y API- ✅ **Vista detallada** de cada paísSee [Vite Configuration Reference](https://vite.dev/config/).
 
-│   │   └── ThemeToggle/- **REST Countries API** - API pública de información de países
+│   │   └── ThemeToggle/
 
-│   │       ├── ThemeToggle.vue
+│   │       ├── ThemeToggle.vue- **Axios 1.13.2** - Cliente HTTP para peticiones
 
-│   │       ├── ThemeToggle.ts### Estilos
+│   │       ├── ThemeToggle.ts
 
-│   │       └── index.ts- **Tailwind CSS 4.1.17** - Framework CSS utility-first
+│   │       └── index.ts- **REST Countries API v3.1** - API pública de información de países- ✅ **Diseño responsive** con Tailwind CSS
 
-│   ├── views/                   # Vistas/Páginas- **PostCSS 8.5.6** - Transformación de CSS
+│   ├── views/                   # Vistas/Páginas
 
-│   │   ├── CountryList/- **Autoprefixer 10.4.21** - Autoprefixing de CSS
+│   │   ├── CountryList/
 
 │   │   │   ├── CountryList.vue
 
-│   │   │   ├── CountryList.ts### Testing
+│   │   │   ├── CountryList.ts### Estilos- ✅ **TypeScript** para type safety## Project Setup
 
-│   │   │   └── index.ts- **Vitest 4.0.8** - Framework de testing ultrarrápido
+│   │   │   └── index.ts
 
-│   │   └── CountryDetail/- **@vue/test-utils 2.4.6** - Utilidades oficiales para testing de Vue
+│   │   └── CountryDetail/- **Tailwind CSS 3.4.0** - Framework CSS utility-first
 
-│   │       ├── CountryDetail.vue- **Happy-DOM 20.0.10** - Implementación ligera del DOM para tests
+│   │       ├── CountryDetail.vue
 
-│   │       ├── CountryDetail.ts
-
-│   │       └── index.ts### Desarrollo
-
-│   ├── composables/             # Composables reutilizables- **vue-tsc** - TypeScript checker para archivos Vue
-
-│   │   └── useTheme.ts         # Manejo de tema dark/light- **@vitejs/plugin-vue** - Plugin de Vite para Vue 3
-
-│   ├── stores/                  # Pinia stores- **vite-plugin-vue-devtools** - DevTools integrado
-
-│   │   ├── countryStore.ts
-
-│   │   └── countryStore.test.ts## 📁 Estructura del Proyecto
-
-│   ├── router/                  # Vue Router
-
-│   │   └── index.ts```
-
-│   ├── types/                   # TypeScript typescountry-app/
-
-│   │   └── country.ts├── src/
-
-│   ├── assets/                  # Assets estáticos│   ├── components/              # Componentes reutilizables
-
-│   │   └── main.css│   │   ├── CountryCard/
-
-│   ├── App.vue                  # Componente raíz│   │   │   ├── CountryCard.vue    # Template del componente
-
-│   └── main.ts                  # Punto de entrada│   │   │   ├── CountryCard.ts     # Lógica TypeScript
-
-├── public/                      # Archivos públicos│   │   │   ├── CountryCard.test.ts # Tests unitarios
-
-├── env.d.ts                     # Declaraciones TypeScript│   │   │   └── index.ts            # Barrel export
-
-├── tsconfig.json                # Configuración TypeScript│   │   ├── SearchInput/
-
-├── vite.config.ts               # Configuración Vite│   │   │   ├── SearchInput.vue
-
-├── tailwind.config.js           # Configuración Tailwind│   │   │   ├── SearchInput.ts
-
-├── postcss.config.js            # Configuración PostCSS│   │   │   ├── SearchInput.test.ts
-
-└── package.json                 # Dependencias y scripts│   │   │   └── index.ts
-
-```│   │   └── LoadingSpinner/
-
-│   │       ├── LoadingSpinner.vue
-
-## 🚀 Instalación│   │       ├── LoadingSpinner.ts
+│   │       ├── CountryDetail.ts- **PostCSS 8.5.6** - Transformación de CSS- ✅ **Tests unitarios** con Vitest
 
 │   │       └── index.ts
 
-### Prerrequisitos│   ├── views/                   # Vistas/Páginas
+│   ├── composables/             # Composables reutilizables- **Autoprefixer 10.4.21** - Autoprefixing de CSS
 
-- Node.js 20.19.0+ o 22.12.0+│   │   ├── CountryList/
+│   │   └── useTheme.ts         # Manejo de tema dark/light
 
-- npm o yarn│   │   │   ├── CountryList.vue
+│   ├── stores/                  # Pinia stores- ✅ **Manejo de estado** con Pinia```sh
 
-│   │   │   ├── CountryList.ts
+│   │   ├── countryStore.ts
 
-### Pasos│   │   │   └── index.ts
+│   │   └── countryStore.test.ts### Testing
 
-│   │   └── CountryDetail/
+│   ├── router/                  # Vue Router
 
-1. **Clonar el repositorio**│   │       ├── CountryDetail.vue
+│   │   └── index.ts- **Vitest 4.0.8** - Framework de testing ultrarrápido- ✅ **Routing** con Vue Routernpm install
 
-```bash│   │       ├── CountryDetail.ts
+│   ├── types/                   # TypeScript types
 
-git clone https://github.com/Gatroxm/country-app.git│   │       └── index.ts
-
-cd country-app│   ├── stores/                  # Pinia stores
-
-```│   │   ├── countryStore.ts
-
-│   │   └── countryStore.test.ts
-
-2. **Instalar dependencias**│   ├── router/                  # Vue Router
-
-```bash│   │   └── index.ts
-
-npm install│   ├── types/                   # TypeScript types
-
-```│   │   └── country.ts
+│   │   └── country.ts- **@vue/test-utils 2.4.6** - Utilidades oficiales para testing de Vue
 
 │   ├── assets/                  # Assets estáticos
 
-## ▶️ Ejecución│   │   └── main.css
+│   │   └── main.css- **Happy-DOM 20.0.10** - Implementación ligera del DOM para tests```
 
 │   ├── App.vue                  # Componente raíz
 
-### Modo Desarrollo│   └── main.ts                  # Punto de entrada
+│   └── main.ts                  # Punto de entrada
 
-```bash├── public/                      # Archivos públicos
+├── public/                      # Archivos públicos
 
-npm run dev├── env.d.ts                     # Declaraciones TypeScript
+├── env.d.ts                     # Declaraciones TypeScript### Desarrollo## 🛠️ Tecnologías Utilizadas
 
-```├── tsconfig.json                # Configuración TypeScript
+├── tsconfig.json                # Configuración TypeScript
 
-La aplicación estará disponible en `http://localhost:5173/`├── vite.config.ts               # Configuración Vite
+├── vite.config.ts               # Configuración Vite- **vue-tsc 3.1.3** - TypeScript checker para archivos Vue
 
 ├── tailwind.config.js           # Configuración Tailwind
 
-### Modo Producción├── postcss.config.js            # Configuración PostCSS
+├── postcss.config.js            # Configuración PostCSS- **@vitejs/plugin-vue 6.0.1** - Plugin de Vite para Vue 3### Compile and Hot-Reload for Development
 
-```bash└── package.json                 # Dependencias y scripts
+└── package.json                 # Dependencias y scripts
 
-# Build```
+```- **vite-plugin-vue-devtools 8.0.3** - DevTools integrado
+
+
+
+## 🚀 Instalación### Core
+
+
+
+### Prerrequisitos## 📁 Estructura del Proyecto
+
+- Node.js 20.19.0+ o 22.12.0+
+
+- npm o yarn- **Vue 3.5.22** - Framework progresivo de JavaScript con Composition API```sh
+
+
+
+### Pasos```
+
+
+
+1. **Clonar el repositorio**country-app/- **TypeScript** - Superset de JavaScript con tipado estáticonpm run dev
+
+
+
+```bash├── src/
+
+git clone https://github.com/Gatroxm/country-app.git
+
+cd country-app│   ├── components/              # Componentes reutilizables- **Vite 7.2.2** - Build tool y dev server ultrarrápido```
+
+```
+
+│   │   ├── CountryCard/
+
+2. **Instalar dependencias**
+
+│   │   │   ├── CountryCard.vue    # Template del componente
+
+```bash
+
+npm install│   │   │   ├── CountryCard.ts     # Lógica TypeScript
+
+```
+
+│   │   │   ├── CountryCard.test.ts # Tests unitarios### Estado y Routing### Compile and Minify for Production
+
+## ▶️ Ejecución
+
+│   │   │   └── index.ts            # Barrel export
+
+### Modo Desarrollo
+
+│   │   ├── SearchInput/- **Pinia 3.0.4** - Store oficial de Vue para manejo de estado
+
+```bash
+
+npm run dev│   │   │   ├── SearchInput.vue
+
+```
+
+│   │   │   ├── SearchInput.ts- **Vue Router 4.6.3** - Routing oficial de Vue```sh
+
+La aplicación estará disponible en `http://localhost:5173/`
+
+│   │   │   ├── SearchInput.test.ts
+
+### Modo Producción
+
+│   │   │   └── index.tsnpm run build
+
+```bash
+
+# Build│   │   ├── LoadingSpinner/
 
 npm run build
 
-## 🚀 Instalación
+│   │   │   ├── LoadingSpinner.vue### HTTP y API```
 
 # Preview del build
 
-npm run preview### Prerrequisitos
+npm run preview│   │   │   ├── LoadingSpinner.ts
 
-```- Node.js 20.19.0+ o 22.12.0+
+```
 
-- npm o yarn
+│   │   │   └── index.ts- **Axios 1.13.2** - Cliente HTTP para peticiones
 
 ### Type Checking
 
-```bash### Pasos
-
-npm run type-check
-
-```1. **Clonar el repositorio** (o descomprimir el archivo)
+│   │   └── ThemeToggle/- **REST Countries API** - API pública de información de países
 
 ```bash
 
-## 🧪 Testscd country-app
+npm run type-check│   │       ├── ThemeToggle.vue
 
 ```
+
+│   │       ├── ThemeToggle.ts### Estilos
+
+## 🧪 Tests
+
+│   │       └── index.ts- **Tailwind CSS 4.1.17** - Framework CSS utility-first
 
 ### Ejecutar todos los tests
 
-```bash2. **Instalar dependencias**
-
-npm test```bash
-
-```npm install
-
-```
-
-### Ejecutar tests con interfaz UI
-
-```bash## ▶️ Ejecución
-
-npm run test:ui
-
-```### Modo Desarrollo
+│   ├── views/                   # Vistas/Páginas- **PostCSS 8.5.6** - Transformación de CSS
 
 ```bash
 
-### Tests Implementados (13/13 ✅)npm run dev
+npm test│   │   ├── CountryList/- **Autoprefixer 10.4.21** - Autoprefixing de CSS
 
 ```
 
-#### **CountryStore Tests** (`stores/countryStore.test.ts`) - 6 testsLa aplicación estará disponible en `http://localhost:5173/`
+│   │   │   ├── CountryList.vue
 
-- ✅ Inicialización con valores por defecto
+### Ejecutar tests con interfaz UI
 
-- ✅ Fetch de países exitoso### Modo Producción
+│   │   │   ├── CountryList.ts### Testing
 
-- ✅ Manejo de errores en fetch con fallback a datos de ejemplo```bash
+```bash
 
-- ✅ Filtrado de países por búsqueda# Build
+npm run test:ui│   │   │   └── index.ts- **Vitest 4.0.8** - Framework de testing ultrarrápido
 
-- ✅ Paginación correcta (20 países por página)npm run build
+```
+
+│   │   └── CountryDetail/- **@vue/test-utils 2.4.6** - Utilidades oficiales para testing de Vue
+
+### Tests Implementados (13/13 ✅)
+
+│   │       ├── CountryDetail.vue- **Happy-DOM 20.0.10** - Implementación ligera del DOM para tests
+
+#### **CountryStore Tests** (`stores/countryStore.test.ts`) - 6 tests
+
+- ✅ Inicialización con valores por defecto│   │       ├── CountryDetail.ts
+
+- ✅ Fetch de países exitoso
+
+- ✅ Manejo de errores en fetch con fallback a datos de ejemplo│   │       └── index.ts### Desarrollo
+
+- ✅ Filtrado de países por búsqueda
+
+- ✅ Paginación correcta (20 países por página)│   ├── composables/             # Composables reutilizables- **vue-tsc** - TypeScript checker para archivos Vue
 
 - ✅ Reset de paginación al buscar
 
-# Preview del build
+│   │   └── useTheme.ts         # Manejo de tema dark/light- **@vitejs/plugin-vue** - Plugin de Vite para Vue 3
 
-#### **CountryCard Tests** (`components/CountryCard/CountryCard.test.ts`) - 3 testsnpm run preview
+#### **CountryCard Tests** (`components/CountryCard/CountryCard.test.ts`) - 3 tests
 
-- ✅ Renderizado correcto de información del país```
+- ✅ Renderizado correcto de información del país│   ├── stores/                  # Pinia stores- **vite-plugin-vue-devtools** - DevTools integrado
 
 - ✅ Navegación a página de detalle al hacer clic
 
-- ✅ Imagen de bandera con src correcto### Type Checking
+- ✅ Imagen de bandera con src correcto│   │   ├── countryStore.ts
+
+
+
+#### **SearchInput Tests** (`components/SearchInput/SearchInput.test.ts`) - 4 tests│   │   └── countryStore.test.ts## 📁 Estructura del Proyecto
+
+- ✅ Renderizado con placeholder correcto
+
+- ✅ Mostrar valor del modelValue│   ├── router/                  # Vue Router
+
+- ✅ Emitir evento update:modelValue al escribir
+
+- ✅ Icono de búsqueda presente│   │   └── index.ts```
+
+
+
+## 🎯 Decisiones Técnicas│   ├── types/                   # TypeScript typescountry-app/
+
+
+
+### 1. **Separación de Lógica y Template**│   │   └── country.ts├── src/
+
+- **Decisión**: Separar cada componente en archivos `.vue` (template) y `.ts` (lógica)
+
+- **Razón**: Mejor organización, testing más fácil, y reutilización de lógica│   ├── assets/                  # Assets estáticos│   ├── components/              # Componentes reutilizables
+
+- **Implementación**: Cada carpeta de componente contiene:
+
+  - `*.vue` - Template HTML│   │   └── main.css│   │   ├── CountryCard/
+
+  - `*.ts` - Lógica TypeScript exportada como composable
+
+  - `*.test.ts` - Tests unitarios│   ├── App.vue                  # Componente raíz│   │   │   ├── CountryCard.vue    # Template del componente
+
+  - `index.ts` - Barrel export
+
+│   └── main.ts                  # Punto de entrada│   │   │   ├── CountryCard.ts     # Lógica TypeScript
+
+### 2. **TypeScript Estricto**
+
+- **Decisión**: Usar TypeScript con modo estricto activado├── public/                      # Archivos públicos│   │   │   ├── CountryCard.test.ts # Tests unitarios
+
+- **Razón**: Type safety, mejor autocompletado, detección temprana de errores
+
+- **Implementación**: ├── env.d.ts                     # Declaraciones TypeScript│   │   │   └── index.ts            # Barrel export
+
+  - Interfaces para props de componentes
+
+  - Tipos para respuestas de API├── tsconfig.json                # Configuración TypeScript│   │   ├── SearchInput/
+
+  - Tipado explícito en funciones y stores
+
+├── vite.config.ts               # Configuración Vite│   │   │   ├── SearchInput.vue
+
+### 3. **Composition API con `<script setup>`**
+
+- **Decisión**: Usar Composition API con sintaxis `<script setup lang="ts">`├── tailwind.config.js           # Configuración Tailwind│   │   │   ├── SearchInput.ts
+
+- **Razón**: Código más conciso, mejor inferencia de tipos, mejor tree-shaking
+
+- **Ventajas**: Menos boilerplate, mejor performance├── postcss.config.js            # Configuración PostCSS│   │   │   ├── SearchInput.test.ts
+
+
+
+### 4. **Pinia para Manejo de Estado**└── package.json                 # Dependencias y scripts│   │   │   └── index.ts
+
+- **Decisión**: Pinia en lugar de Vuex
+
+- **Razón**: ```│   │   └── LoadingSpinner/
+
+  - API más simple e intuitiva
+
+  - Mejor soporte para TypeScript│   │       ├── LoadingSpinner.vue
+
+  - Recomendado oficialmente por Vue 3
+
+- **Implementación**: Store con setup syntax usando composables## 🚀 Instalación│   │       ├── LoadingSpinner.ts
+
+
+
+### 5. **Tailwind CSS con Dark Mode**│   │       └── index.ts
+
+- **Decisión**: Tailwind en lugar de CSS modules o styled-components
+
+- **Razón**:### Prerrequisitos│   ├── views/                   # Vistas/Páginas
+
+  - Desarrollo más rápido
+
+  - Diseño consistente- Node.js 20.19.0+ o 22.12.0+│   │   ├── CountryList/
+
+  - Purge automático de CSS no usado
+
+  - Soporte nativo para dark mode con `class` strategy- npm o yarn│   │   │   ├── CountryList.vue
+
+- **Implementación**: `darkMode: 'class'` en configuración
+
+│   │   │   ├── CountryList.ts
+
+### 6. **Dark Mode Persistente**
+
+- **Decisión**: Implementar dark mode con localStorage y composable reutilizable### Pasos│   │   │   └── index.ts
+
+- **Razón**:
+
+  - Mejora la experiencia del usuario│   │   └── CountryDetail/
+
+  - Persistencia entre sesiones
+
+  - Modo light por defecto1. **Clonar el repositorio**│   │       ├── CountryDetail.vue
+
+- **Implementación**:
+
+  - Composable `useTheme()` con estado global```bash│   │       ├── CountryDetail.ts
+
+  - Toggle visual en header con iconos sol/luna
+
+  - Clase `dark` en `document.documentElement`git clone https://github.com/Gatroxm/country-app.git│   │       └── index.ts
+
+  - Transiciones suaves con `transition-colors duration-200`
+
+cd country-app│   ├── stores/                  # Pinia stores
+
+### 7. **Paginación con "Ver Más"**
+
+- **Decisión**: Carga incremental en lugar de paginación tradicional```│   │   ├── countryStore.ts
+
+- **Razón**: Mejor UX en dispositivos móviles, menos clics
+
+- **Implementación**: 20 países por página, botón "Ver Más" cuando hay más resultados│   │   └── countryStore.test.ts
+
+
+
+### 8. **Búsqueda en Cliente**2. **Instalar dependencias**│   ├── router/                  # Vue Router
+
+- **Decisión**: Filtrado en el cliente en lugar de búsqueda en API
+
+- **Razón**: ```bash│   │   └── index.ts
+
+  - Respuesta instantánea
+
+  - Menos llamadas a la APInpm install│   ├── types/                   # TypeScript types
+
+  - Datos ya cargados
+
+- **Implementación**: Computed property que filtra el array```│   │   └── country.ts
+
+
+
+### 9. **Testing con Vitest**│   ├── assets/                  # Assets estáticos
+
+- **Decisión**: Vitest en lugar de Jest
+
+- **Razón**:## ▶️ Ejecución│   │   └── main.css
+
+  - Integración nativa con Vite
+
+  - Más rápido que Jest│   ├── App.vue                  # Componente raíz
+
+  - Misma API que Jest (fácil migración)
+
+  - Mejor soporte para ESM### Modo Desarrollo│   └── main.ts                  # Punto de entrada
+
+
+
+### 10. **Axios sobre Fetch con Fallback**```bash├── public/                      # Archivos públicos
+
+- **Decisión**: Usar Axios para peticiones HTTP con datos de fallback
+
+- **Razón**:npm run dev├── env.d.ts                     # Declaraciones TypeScript
+
+  - Interceptors para manejo de errores global
+
+  - Transformación automática de JSON```├── tsconfig.json                # Configuración TypeScript
+
+  - Mejor UX mostrando datos de ejemplo si API falla
+
+- **Implementación**: Try-catch con 5 países de ejemplo como fallbackLa aplicación estará disponible en `http://localhost:5173/`├── vite.config.ts               # Configuración Vite
+
+
+
+## 📦 Funcionalidades Implementadas├── tailwind.config.js           # Configuración Tailwind
+
+
+
+### Pantalla Principal (Listado)### Modo Producción├── postcss.config.js            # Configuración PostCSS
+
+- ✅ Listado de todos los países ordenados alfabéticamente
+
+- ✅ Barra de búsqueda con filtrado en tiempo real```bash└── package.json                 # Dependencias y scripts
+
+- ✅ Tarjetas con información básica (nombre, población, región, capital)
+
+- ✅ Paginación con "Ver Más" (20 países por página)# Build```
+
+- ✅ Loading spinner durante carga
+
+- ✅ Manejo de errores con fallback a datos de ejemplonpm run build
+
+- ✅ Diseño responsive (grid adaptativo 1/2/3/4 columnas)
+
+- ✅ Contador de resultados## 🚀 Instalación
+
+
+
+### Pantalla de Detalle# Preview del build
+
+- ✅ Información completa del país seleccionado
+
+- ✅ Bandera y escudo de armasnpm run preview### Prerrequisitos
+
+- ✅ Datos: nombre oficial, capital, región, subregión, población, área
+
+- ✅ Idiomas y monedas con símbolos```- Node.js 20.19.0+ o 22.12.0+
+
+- ✅ Zonas horarias
+
+- ✅ Botón "Volver" para regresar al listado- npm o yarn
+
+- ✅ Enlace a Google Maps
+
+- ✅ Loading y error states### Type Checking
+
+- ✅ Layout responsive de 2 columnas
+
+```bash### Pasos
+
+### Dark Mode 🌙
+
+- ✅ Toggle dark/light mode en headernpm run type-check
+
+- ✅ Persistencia en localStorage
+
+- ✅ Modo light por defecto```1. **Clonar el repositorio** (o descomprimir el archivo)
+
+- ✅ Iconos de sol ☀️ y luna 🌙
+
+- ✅ Transiciones suaves entre temas```bash
+
+- ✅ Todos los componentes adaptados con clases `dark:`
+
+## 🧪 Testscd country-app
+
+### Diseño y UX
+
+- ✅ Interfaz limpia y moderna```
+
+- ✅ Responsive design (mobile-first)
+
+- ✅ Animaciones y transiciones suaves### Ejecutar todos los tests
+
+- ✅ Estados de carga y error claros
+
+- ✅ Feedback visual en interacciones```bash2. **Instalar dependencias**
+
+- ✅ Hover effects en tarjetas y botones
+
+npm test```bash
+
+## 👨‍💻 Autor
+
+```npm install
+
+Desarrollado como prueba técnica para **DOUBLE_V_PARTNERS**
+
+```
+
+**GitHub**: [Gatroxm/country-app](https://github.com/Gatroxm/country-app)
+
+### Ejecutar tests con interfaz UI
+
+---
+
+```bash## ▶️ Ejecución
+
+## 📝 Notas Adicionales
+
+npm run test:ui
+
+- La aplicación consume la API pública de [REST Countries](https://restcountries.com/)
+
+- No requiere autenticación ni API keys```### Modo Desarrollo
+
+- Los datos se almacenan en el store de Pinia
+
+- Si la API no está disponible, muestra 5 países de ejemplo```bash
+
+- La aplicación es completamente client-side (SPA)
+
+- El tema (dark/light) se guarda en localStorage### Tests Implementados (13/13 ✅)npm run dev
+
+
+
+## 🎨 Bonus Implementados```
+
+
+
+- ✅ **TypeScript** - 100% del código tipado#### **CountryStore Tests** (`stores/countryStore.test.ts`) - 6 testsLa aplicación estará disponible en `http://localhost:5173/`
+
+- ✅ **Dark Mode** - Completamente funcional con persistencia
+
+- ✅ **Responsive Design** - Mobile-first con Tailwind Grid- ✅ Inicialización con valores por defecto
+
+
+
+## 🏆 Cumplimiento de Requerimientos- ✅ Fetch de países exitoso### Modo Producción
+
+
+
+### Requerimientos Obligatorios- ✅ Manejo de errores en fetch con fallback a datos de ejemplo```bash
+
+- ✅ Vue 3 con Composition API
+
+- ✅ Vue Router con 2 rutas (/, /detail/:id)- ✅ Filtrado de países por búsqueda# Build
+
+- ✅ Axios para peticiones HTTP
+
+- ✅ Pinia para manejo de estado- ✅ Paginación correcta (20 países por página)npm run build
+
+- ✅ Tests unitarios con Vitest (13 tests)
+
+- ✅ Tailwind CSS para estilos- ✅ Reset de paginación al buscar
+
+- ✅ Listado con búsqueda/filtrado
+
+- ✅ Paginación/carga incremental# Preview del build
+
+- ✅ Vista de detalle
+
+- ✅ Componentización#### **CountryCard Tests** (`components/CountryCard/CountryCard.test.ts`) - 3 testsnpm run preview
+
+- ✅ Buenas prácticas
+
+- ✅ README completo- ✅ Renderizado correcto de información del país```
+
+
+
+### Requerimientos Bonus- ✅ Navegación a página de detalle al hacer clic
+
+- ✅ TypeScript
+
+- ✅ Dark Mode- ✅ Imagen de bandera con src correcto### Type Checking
+
+- ✅ Responsive Design
 
 ```bash
 
@@ -488,7 +846,8 @@ npm test
 
 ### 8. **Búsqueda en Cliente**
 
-   - **Decisión**: Filtrado en el cliente en lugar de búsqueda en API### 4. **Pinia para Manejo de Estado**
+   - **Decisión**: Filtrado en el cliente en lugar de búsqueda en API
+   ### 4. **Pinia para Manejo de Estado**
 
    - **Razón**:    - **Decisión**: Pinia en lugar de Vuex
 
