@@ -48,8 +48,9 @@ describe('Country Store', () => {
 
         await store.fetchCountries()
 
-        expect(store.error).toBe('Network error')
+        expect(store.error).toBe('Mostrando datos de ejemplo. La API de REST Countries no está disponible en este momento.')
         expect(store.isLoading).toBe(false)
+        expect(store.countries.length).toBe(5) // Debería tener los 5 países de ejemplo
     })
 
     it('should filter countries by search query', () => {
